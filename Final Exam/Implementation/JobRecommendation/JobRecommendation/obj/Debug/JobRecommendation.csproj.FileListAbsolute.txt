@@ -1,0 +1,16 @@
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\bin\Debug\JobRecommendation.exe.config
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\bin\Debug\JobRecommendation.exe
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\bin\Debug\JobRecommendation.pdb
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\obj\Debug\JobRecommendation.csprojResolveAssemblyReference.cache
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\obj\Debug\JobRecommendation.exe
+C:\Users\harsh\Desktop\AOBD\JobRecommendation\JobRecommendation\obj\Debug\JobRecommendation.pdb
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\bin\Debug\JobRecommendation.exe.config
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\obj\Debug\JobRecommendation.exe
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\obj\Debug\JobRecommendation.pdb
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\bin\Debug\JobRecommendation.exe
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\bin\Debug\JobRecommendation.pdb
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\harsh\Desktop\Exam\AOBD\JobRecommendation\JobRecommendation\obj\Debug\JobRecommendation.csprojResolveAssemblyReference.cache
